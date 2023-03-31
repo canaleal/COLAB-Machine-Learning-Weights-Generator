@@ -1,11 +1,25 @@
-# COLAB-Machine-Learning-Weights-Generator
+<div align="center">
+  <h1>Machine Learning Weights Generator</h1>
+  <h4>Roboflow • YOLOv5 • PyTorch</h4>
+</div>
+<h1>Contents</h1>
 
-Roboflow is a Computer Vision developer framework for better data collection to preprocessing, and model training techniques. Roboflow has public datasets readily available to users and has access for users to upload their own custom data also. This script, created with some datasets from Robo is used to generate Machine Learning model Weights for a YOLOv5 Algorithm. 
+- [Overview](#overview)
+- [Technologies](#technologies)
 
-[Google Colab](https://colab.research.google.com/drive/1OHS_AUUqriJIRU2MLJ2icQQZe1iuMVB8?usp=sharing)
 
-## Contributing
-Pull requests will not be accepted at this time. The application is currently in development, with the first alpha release deploying in late October. 
+<h1 id="overview">Overview</h1>
+Machine-Learning-Weights-Generator is a tool that simplifies the process of generating machine learning model weights for the YOLOv5 algorithm. It does so by utilizing some publicly available datasets from Roboflow, a computer vision developer framework, and PyTorch, a popular open-source machine learning library.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+<h1>Technologies</h1>
+<div align="center" id="technologies">
+
+Below is a table that provides an overview of the technologies used in this project.
+<table>
+  <tr> 
+    <td align='center'><img src="https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python" alt="Python"/></td>
+    <td align='center'><img src="https://img.shields.io/badge/pytorch-%2320232a.svg?style=for-the-badge&logo=pytorch" alt="PyTorch"/></td>
+    <td align='center'><img src="https://img.shields.io/badge/roboflow-%2320232a.svg?style=for-the-badge&logo=roboflow" alt="Roboflow"/></td>
+  </tr>
+ </table>
+</div>
